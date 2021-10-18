@@ -1,0 +1,3 @@
+D:/Uni/3.Semester/SysProg/afgb3/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Uni/3.Semester/SysProg/afgb3/cmake-build-debug/CMakeFiles/afgb3.dir
+D:/Uni/3.Semester/SysProg/afgb3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
